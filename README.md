@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderankit98
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on GSoC 2022
 - 📫 How to reach me ankitdebnath4586@gmail.com
 
